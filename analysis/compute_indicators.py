@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Petya Sarafova
 """Compute the L7+ attribution-graph indicator panel for a matched pair.
 
 Point this at the two attribution-graph JSON files that circuit-tracer produces

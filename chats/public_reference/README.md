@@ -61,8 +61,7 @@ indexing convention.
 - **P26 and S02 are the same source conversation** (different windows) — one WW2/wartime
   animation conversation appears as a primary-cohort pair and, at a different window, in the
   sensitivity set.
-- **S17 (`hibernate mappedsuperclass`):** the source-of-record is WildChat (row 417460). The
-  project's indicator table labels this pair LMSYS; that label is being reconciled. The text
-  itself is WildChat, so it is referenced here as WildChat.
+- **S17 (`hibernate mappedsuperclass`):** WildChat (row 417460). It was earlier mislabeled
+  LMSYS in the indicator table and has been corrected to WildChat.
 - **LMSYS pairs** (S14–S16): source model vicuna-13b; `language` is inferred from content
   (the dataset packet does not store a language field).

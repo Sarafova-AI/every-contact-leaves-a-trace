@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Petya Sarafova
 """Reconstruct the public-dataset Navigator segments referenced in public_pairs.csv.
 
 The Navigator side of the public-dataset pairs is NOT re-hosted here. This script

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Petya Sarafova
 """Reproduce the cohort statistics and bootstrap outputs from indicator_panel.csv.
 
 Reads the per-pair indicator table, restricts to a cohort, and reports — for the

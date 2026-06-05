@@ -6,7 +6,8 @@ documentation, and the **author-written** conversation segments — is licensed 
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
     SPDX-License-Identifier: CC-BY-4.0
-    Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+    Full legal text: LICENSE-CC-BY-4.0.txt
+    (also at https://creativecommons.org/licenses/by/4.0/legalcode)
 
 You are free to share and adapt this material for any purpose, provided you give
 appropriate credit.
