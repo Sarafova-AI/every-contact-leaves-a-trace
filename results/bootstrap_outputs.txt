@@ -1,0 +1,22 @@
+Veil companion - cohort statistics and bootstrap outputs
+(activation-weighted mean layer is the pre-specified primary endpoint)
+
+## Primary cohort  (n=35)
+  activation-weighted mean layer (PRIMARY)
+    n=35 | 31/35 NAV>OP (89%) | sign p=3.47e-06 | mean +0.554 (SD 0.524), 95% t-CI [+0.374, +0.734] | BCa 95% CI [+0.377, +0.720] | Wilcoxon p=5.78e-07
+  influence-weighted mean layer (confirming secondary)
+    n=35 | 26/35 NAV>OP (74%) | sign p=0.00599 | mean +0.274 (SD 0.401), 95% t-CI [+0.136, +0.411] | BCa 95% CI [+0.146, +0.407] | Wilcoxon p=0.000262
+
+## All traced pairs (primary + sensitivity)  (n=54)
+  activation-weighted mean layer (PRIMARY)
+    n=54 | 43/54 NAV>OP (80%) | sign p=1.4e-05 | mean +0.442 (SD 0.531), 95% t-CI [+0.297, +0.587] | BCa 95% CI [+0.300, +0.580] | Wilcoxon p=1.17e-06
+  influence-weighted mean layer (confirming secondary)
+    n=54 | 35/54 NAV>OP (65%) | sign p=0.0402 | mean +0.156 (SD 0.494), 95% t-CI [+0.021, +0.291] | BCa 95% CI [+0.023, +0.284] | Wilcoxon p=0.0146
+
+## Author-written subset of the primary cohort  (n=26)
+  activation-weighted mean layer (PRIMARY)
+    n=26 | 23/26 NAV>OP (88%) | sign p=8.8e-05 | mean +0.570 (SD 0.480), 95% t-CI [+0.376, +0.764] | BCa 95% CI [+0.406, +0.774] | Wilcoxon p=9.83e-07
+  influence-weighted mean layer (confirming secondary)
+    n=26 | 18/26 NAV>OP (69%) | sign p=0.0755 | mean +0.276 (SD 0.418), 95% t-CI [+0.107, +0.445] | BCa 95% CI [+0.127, +0.442] | Wilcoxon p=0.00293
+
+BCa bootstrap: 20000 resamples, fixed seed 20260603; computed with scipy 1.17.1, numpy 2.4.4.

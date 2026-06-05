@@ -1,0 +1,27 @@
++User
+I want to understand your perspective on how to write prompts that force a model out of generic safe answers and into actual reasoning. Please keep replies concise so I can test ideas step by step
+
+
+
++Assistant
+One way to write prompts that require reasoning is to ask open-ended questions that cannot be answered simply by regurgitating information. Encourage critical thinking by posing scenarios or dilemmas that require interpretation, analysis, and synthesis of knowledge. This can prompt models to think creatively and outside of the box, moving beyond generic responses.
+
+
+
++User
+ok, let's say there is a patient with multi-level PAOD/PVD. Claudication ~250 m steady pace; 58y/old; T2DM;On Ct-angio multilevel stenosis. One significant ~50% on the conjunction with the common femoral and one ~60% at the trifurcation. ABI 0.65mm/hg; Well controlled T2DM and Hypertension, slightly elevated creat 170.What would be your recommendation for next steps in the therapeutic plan?
+
+
+
++Assistant
+Given the patient's presentation of multi-level peripheral arterial occlusive disease (PAOD) and peripheral vascular disease (PVD), along with comorbidities of type 2 diabetes mellitus (T2DM) and hypertension, as well as the findings on CT angiography, ABI, and slightly elevated creatinine levels, several considerations should be taken into account for the therapeutic plan.
+
+1. Lifestyle modifications: Emphasize the importance of smoking cessation, regular physical exercise, and a healthy diet to improve overall cardiovascular health and manage risk factors for progression of PAOD/PVD.
+
+2. Medication management: Optimize current medications for T2DM and hypertension to ensure tight control of blood glucose and blood pressure levels. Consider adding or adjusting antiplatelet therapy, lipid-lowering agents, and antihypertensive medications as needed.
+
+3. Revascularization options: Given the presence of significant stenosis at critical locations, intervention may be warranted. Options include endovascular therapy (angioplasty with or without stenting) or surgical revascularization (bypass surgery) based on patient's anatomy, comorbidities, and preferences.
+
+4. Close monitoring: Monitor the patient closely for progression of symptoms, development of complications, and response to interventions. Regular follow-up with vascular specialists, endocrinologists, and nephrologists may be necessary to manage the complex needs of the patient.
+
+It is important to individualize the therapeutic plan based on the patient's specific characteristics, preferences, and goals of care. Collaborate with a multidisciplinary team to optimize outcomes and provide comprehensive care for the patient with multi-level PAOD/PVD and comorbidities.

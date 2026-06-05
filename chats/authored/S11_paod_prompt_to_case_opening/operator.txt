@@ -1,0 +1,27 @@
++User
+In about 120 words, explain how prompts can move a model from generic answers into clinical reasoning. Keep it practical, not theoretical.
+
+
+
++Assistant
+Prompts can push a model beyond basic knowledge and into clinical reasoning by guiding them to think critically about the information they have. For example, instead of asking a model what the symptoms of diabetes are, a prompt could ask them how they would differentiate between type 1 and type 2 diabetes based on a patient's medical history and presenting symptoms. This forces the model to consider the nuances of each condition and apply their knowledge in a more specific and clinically relevant way. By prompting models to think through the reasoning behind their answers, they are pushed to consider all possible factors and make more informed decisions, ultimately enhancing their clinical reasoning skills.
+
+
+
++User
+In about 140 words, apply that to a PAOD case with multilevel stenosis, diabetes, hypertension, and claudication. List the key variables to ask before treatment sequencing.
+
+
+
++Assistant
+When faced with a patient presenting with peripheral arterial occlusive disease (PAOD) with multilevel stenosis, diabetes, hypertension, and claudication, it is crucial to consider several key variables before determining the treatment sequencing. Key questions to ask include the severity of claudication symptoms and their impact on daily activities, the presence of other comorbidities such as kidney disease or heart failure, the patient's adherence to current medications and lifestyle modifications, and their overall vascular health status. Additionally, it is important to assess the extent of peripheral artery involvement, the presence of critical limb ischemia, and any previous interventions or surgeries. Understanding these variables will help in determining the most appropriate treatment sequencing, whether it involves lifestyle modifications, medication management, endovascular interventions, or surgical options. By considering these factors, clinicians can tailor the treatment plan to the individual patient's needs and improve outcomes.
+
+
+
++User
+In about 80 words, write one better prompt for that PAOD case.
+
+
+
++Assistant
+"How would you prioritize treatment options for a patient with multilevel stenosis, diabetes, hypertension, and claudication? Consider the severity of symptoms, impact on daily activities, comorbidities, current medication adherence, vascular health status, extent of arterial involvement, presence of critical limb ischemia, and any previous interventions. Please explain your thought process in selecting the most appropriate treatment sequencing for this patient."

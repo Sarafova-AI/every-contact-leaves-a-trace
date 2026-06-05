@@ -1,0 +1,73 @@
++User
+You mostly agreed instead of testing it. Find the failure cases. When is my cognitive-ownership rule too strict? For example, if the child lacks background knowledge, is exhausted, or has already tried and failed, AI explanation may prevent helplessness rather than steal learning. Build a boundary: what must happen before AI helps, what AI may do during help, and what the child must do after help for the learning to remain theirs.
+
+
+
++Assistant
+You make a valid point in recognizing that there may be situations where the cognitive-ownership rule of ensuring that the hard parts of learning remain within the child's cognitive process may be too strict or unrealistic. 
+
+Here is a proposed boundary for when and how AI can assist a child with their homework while still ensuring that the learning remains theirs:
+
+1. Before AI helps: The child should make a genuine effort to work through the problem independently. This includes attempting to understand the question, applying any relevant background knowledge they have, and making a reasonable attempt at solving the problem on their own. If the child is completely stuck or lacks the necessary background knowledge, then AI assistance can be sought earlier in the process.
+
+2. During AI help: AI can provide explanations, examples, and guidance to support the child in understanding the concept or problem. However, the child should actively engage with the AI-generated information, ask questions, seek clarification, and try to apply the information to solve the problem themselves. AI should not simply provide the answer without any effort or understanding on the child's part.
+
+3. After AI help: After receiving assistance from AI, the child should attempt to solve the problem again on their own. This is where the real learning takes place as they apply the information and strategies they have learned from AI to solve the problem independently. The child should also be encouraged to reflect on their learning process, identify any mistakes or misunderstandings, and correct them.
+
+By setting clear boundaries for when and how AI can assist a child with their homework, you can help ensure that the child remains actively engaged in the learning process and retains cognitive ownership of their learning. This approach allows for a balance between utilizing AI as a helpful tool and promoting independent thinking and problem-solving skills in the child.
+
+
+
++User
+This is better, but still sounds like a policy paragraph. The reason I need an observable protocol is that AI can make homework look successful while silently removing the struggle that forms memory, error detection, and strategy choice. For one math problem, give a before/during/after protocol with exact child actions. If I watch for five minutes, what evidence shows AI supported learning rather than replaced it?
+
+
+
++Assistant
+Certainly, here is a more detailed before/during/after protocol for a math problem that outlines specific child actions to observe for evidence that AI is supporting learning rather than replacing it:
+
+Before AI helps:
+1. Child reads and understands the math problem.
+2. Child attempts to solve the problem independently, applying any relevant background knowledge or strategies.
+3. Child makes a note of any specific areas where they are struggling or need clarification.
+
+During AI help:
+1. Child inputs the math problem into the AI tool.
+2. Child actively engages with the AI-generated explanations, examples, and guidance.
+3. Child asks questions or seeks clarification on any parts of the explanation that are unclear.
+4. Child takes notes or summarizes the key points of the AI assistance to aid in their understanding.
+
+After AI help:
+1. Child attempts to solve the math problem again on their own, applying the information and strategies learned from AI.
+2. Child reflects on their learning process, identifying any mistakes or misunderstandings.
+3. Child corrects any errors and explains their reasoning behind the solution.
+4. Child compares their solution with the AI-generated answer to ensure accuracy and understanding.
+
+When observing for evidence that AI is supporting learning rather than replacing it, look for the following indicators:
+- Child actively engages with the AI-generated explanations and guidance.
+- Child asks questions and seeks clarification to deepen their understanding.
+- Child applies the information and strategies learned from AI to solve the problem independently.
+- Child reflects on their learning process, identifies mistakes, and corrects errors on their own.
+- Child can explain their reasoning behind the solution and demonstrate an understanding of the concept.
+
+By observing these specific child actions and behaviors during the before, during, and after stages of using AI for homework, you can gather evidence that the child is actively engaged in the learning process and retaining cognitive ownership of their learning.
+
+
+
++User
+This is too long and over-instrumented. The useful core is simpler: the child must try first, use AI to understand the obstacle, then solve or explain without AI. Compress to three non-negotiable rules and one red flag that shows AI replaced thinking.
+
+
+
++Assistant
+Here is a simplified set of three non-negotiable rules and one red flag to look out for when observing a child using AI for homework:
+
+Three non-negotiable rules:
+1. Child must attempt to solve the problem independently before seeking AI assistance.
+2. Child may use AI to understand the obstacle or concept they are struggling with.
+3. Child must solve the problem or explain their solution without AI after receiving assistance.
+
+One red flag that AI replaced thinking:
+- Child consistently relies on AI to provide answers without making an effort to understand the problem or concept independently.
+
+By following these three rules and being mindful of the red flag, you can ensure that the child is actively engaging in the learning process and retaining cognitive ownership of their homework tasks, even when using AI for assistance.

@@ -1,0 +1,67 @@
++User
+This is still abstract. Use three concrete professions: physician, lawyer, and software engineer. For each, name one junior task that AI can automate, why that same task is part of becoming expert, and what replacement training structure would preserve the learning if the market stops paying juniors to do it.
+
+
+
++Assistant
+Physician:
+Task AI can automate: Data entry and documentation
+Why it is part of becoming an expert: Data entry and documentation tasks are essential for physicians to accurately record patient information, track medical histories, and communicate with other healthcare providers. It helps them develop organizational skills, attention to detail, and understanding of medical terminology.
+Replacement training structure: If the market stops paying juniors to do data entry and documentation, medical training programs could incorporate simulation-based training exercises or virtual reality simulations to provide students with hands-on experience in managing patient records and documentation. This would allow aspiring physicians to develop the necessary skills and experience in a controlled, realistic environment.
+
+Lawyer:
+Task AI can automate: Legal research and document review
+Why it is part of becoming an expert: Legal research and document review tasks are crucial for lawyers to build a strong foundation of legal knowledge, understand case law, and develop critical analysis skills. It helps them learn how to interpret complex legal documents and apply legal principles to real-world cases.
+Replacement training structure: If AI technology automates legal research and document review tasks, law schools and legal training programs could introduce more practical, case-based learning opportunities. This could involve mock trials, legal clinics, and real-world case studies to help aspiring lawyers gain hands-on experience and develop their analytical and problem-solving skills.
+
+Software Engineer:
+Task AI can automate: Code debugging and testing
+Why it is part of becoming an expert: Code debugging and testing tasks are essential for software engineers to identify and fix errors in their code, understand the logic behind different programming languages, and improve the performance of their software. It helps them develop problem-solving skills, attention to detail, and familiarity with coding best practices.
+Replacement training structure: If AI automates code debugging and testing tasks, coding bootcamps and software engineering programs could focus more on collaborative projects and real-world software development experiences. By working on team projects, participating in hackathons, and building their own applications, aspiring software engineers can gain practical experience and hone their coding skills in a hands-on, interactive setting.
+
+
+
++User
+This still dodges the hard part: you moved apprenticeship into schools, simulations, clinics, and projects, but expert formation requires supervised real responsibility, not just practice exercises. Who pays for that training if junior labor is no longer economically useful? For physician, lawyer, and software engineer, define the lowest-risk real task a beginner must still do, who supervises it, and how AI should assist without replacing the learning.
+
+
+
++Assistant
+Physician:
+Lowest-risk real task: Taking patient histories
+Supervision: Experienced physicians or senior medical staff
+AI assistance: AI can assist by providing real-time suggestions for questioning techniques, helping identify relevant information, and offering insights based on data analysis. However, the final decision-making and clinical judgment remains with the beginner physician under the guidance of the supervising physician.
+
+Lawyer:
+Lowest-risk real task: Conducting client interviews
+Supervision: Mentoring lawyers or senior legal professionals
+AI assistance: AI can assist by analyzing client responses, identifying relevant legal precedents, and suggesting follow-up questions. However, the beginner lawyer must still lead the interview process, develop rapport with the client, and make decisions on how to proceed based on the information gathered, with guidance from the supervising legal professional.
+
+Software Engineer:
+Lowest-risk real task: Working on a small feature or bug fix in a live project
+Supervision: Lead developers or senior engineers
+AI assistance: AI can assist by providing code suggestions, identifying potential issues, and offering best practices for implementation. The beginner software engineer should actively participate in the coding process, troubleshoot any issues that arise, and learn from the feedback and guidance provided by the supervising team members.
+
+In each of these cases, the supervision by experienced professionals is crucial to ensure that beginners receive the necessary guidance, feedback, and mentorship to develop their skills and judgment. While AI can provide valuable assistance in augmenting the learning process, it should not replace the hands-on experience and real-world responsibility that is essential for expert formation in fields such as medicine, law, and software engineering. If junior labor is no longer economically useful for these tasks, institutions, organizations, or governments may need to invest in structured apprenticeship programs or training initiatives to ensure that aspiring professionals have the opportunity to gain the real-world experience necessary to become experts in their respective fields.
+
+
+
++User
+Now test my original claim: maybe this AI shock winds down, experts remain valuable, and traditional university pathways survive. But maybe the apprenticeship ladder changes permanently because cheap junior cognitive labor is no longer needed. Which part of my claim is strong, which part is weak, and what would we watch over the next 5 years to know which world we are in?
+
+
+
++Assistant
+The strong part of your claim is the recognition that experts in fields requiring high-stakes judgment, lived training, tacit knowledge, liability, and local context will likely remain valuable even in the face of AI advancements. This acknowledges the irreplaceable human element that is crucial in professions such as medicine, law, and engineering. Additionally, the notion that traditional university pathways may still survive is also a plausible scenario, as higher education institutions can adapt their curricula and training methods to meet the changing demands of the job market.
+
+However, the weak part of the claim lies in assuming that the apprenticeship ladder may not be significantly impacted by the shift in the job market brought about by AI. The potential permanent change in the apprenticeship ladder due to the decreased need for cheap junior cognitive labor is a valid concern that may alter the traditional pathways to expertise in various professions.
+
+To gauge whether the apprenticeship ladder is indeed undergoing a permanent change, we could watch the following indicators over the next 5 years:
+
+1. Job Market Trends: Monitor the demand for entry-level positions in professions such as medicine, law, and engineering. If these positions continue to decrease or become more automated, it could signal a shift in the traditional apprenticeship model.
+
+2. Training Programs: Observe how educational institutions and training programs adapt to the changing job market. Look for new approaches to hands-on training, mentorship, and real-world experience that aim to fill the gap left by the reduction of junior cognitive labor.
+
+3. Industry Practices: Pay attention to how industries are restructuring their workforce and training methods in response to AI technology. If companies invest in alternative forms of apprenticeship or skill development programs, it could indicate a permanent shift in the apprenticeship ladder.
+
+By monitoring these factors, we can better understand whether the apprenticeship ladder is undergoing a fundamental transformation due to the changing dynamics of the AI job market, or if traditional pathways to expertise will continue to prevail.
