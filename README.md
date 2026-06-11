@@ -1,10 +1,11 @@
-# Companion materials — *How a User's Engagement Style Shapes a Language Model's Internal Computation*
+# Companion materials — *Every Contact Leaves a Trace*
 
-Supplementary materials for the preprint *How a User's Engagement Style Shapes a Language
-Model's Internal Computation* (subtitle: *Navigator- versus Operator-style interaction
-leaves a measurable attribution-graph signature*).
+Supplementary materials for the preprint *Every Contact Leaves a Trace* (subtitle:
+*Navigator- versus Operator-style interaction leaves a measurable attribution-graph
+signature*).
 
-**Paper:** https://sarafova.ai  (arXiv link to follow)
+**Author:** Petya Sarafova, independent researcher.
+**Paper:** https://theveil.dev — Preprint v1, June 2026 (arXiv link to follow)
 
 The study traces matched pairs of conversation segments that differ only in the user's
 engagement style — Navigator-mode (specific, self-correcting, steering, deepening) versus
@@ -28,6 +29,10 @@ mean layer sits later for Navigator-mode segments.
     cohort and provenance labels.
 - **`results/`** — `bootstrap_outputs.txt`, the regenerated cohort statistics and BCa
   bootstrap intervals.
+- **`robustness/`** — outputs of the 2026-06-10 independent robustness pass: full
+  recomputation of the cohort statistics from the raw indicator table, the layer-cutoff
+  exclusion sweep, the feature-nodes-only composition check, the token-match audit, and
+  full-precision values for the graph-morphology deltas. See `robustness/README.md`.
 - **`chats/`** — the matched-pair conversation segments. `chats/authored/` holds the 35
   author-written pairs as full text (released for audit and reproduction);
   `chats/public_reference/` references the 19 public-dataset pairs (WildChat, LMSYS) by

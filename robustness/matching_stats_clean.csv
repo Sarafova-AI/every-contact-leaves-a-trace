@@ -1,0 +1,55 @@
+topic,group,act,nav_tok,op_tok,rel,nav_turns,op_turns
+petya paod prioritization,demonstrative,0.6958,1231,1165,0.05509181969949917,3,4
+petya paod p1 reassessment,demonstrative,0.8727,1202,1095,0.09316499782324772,3,5
+petya patterns collective unconscious,demonstrative,0.6694,1194,1093,0.08832531700918234,4,4
+petya russia occupation criteria,demonstrative,0.2972,1218,1082,0.11826086956521739,4,4
+petya may29 pe reperfusion thresholds,demonstrative,0.7579,1320,1235,0.06653620352250489,5,7
+petya may29 sepsis fluid tolerance,demonstrative,1.98,1213,1274,-0.04905508644953759,5,8
+petya may29 turbot calorie method,demonstrative,1.1835,1204,1090,0.0993897122929381,4,6
+petya may29 ai apprenticeship ladder,demonstrative,0.6071,1427,1229,0.14909638554216867,3,7
+petya may29 child learning discomfort,demonstrative,0.6318,1486,1371,0.08050402520126006,3,8
+petya may29 ai homework cognitive ownership,demonstrative,0.6429,1165,1131,0.029616724738675958,3,7
+petya may28 prime thermostat feedback clean,demonstrative,1.0464,1290,1308,-0.013856812933025405,3,8
+petya may28 prime immune spam filter,demonstrative,1.1443,923,870,0.05911879531511433,5,6
+petya may28 prime yogurt reverse spherification,demonstrative,1.0334,707,665,0.061224489795918366,5,4
+ppv low prevalence screening,demonstrative,0.3124,1380,1427,-0.033487709298183115,4,8
+lactate scvo2 resuscitation endpoints,demonstrative,0.1849,1245,1227,0.014563106796116505,5,8
+permissive hypotension safety boundary,demonstrative,0.2658,1327,1349,-0.016442451420029897,3,9
+stress dose steroids septic shock,demonstrative,0.2032,1421,1399,0.015602836879432624,5,9
+competing risks cause specific hazard,demonstrative,0.2532,1184,1120,0.05555555555555555,4,8
+tiktok preference exposure loop,demonstrative,0.909,1179,1200,-0.017654476670870115,5,8
+small island waste logistics,demonstrative,0.4734,1251,1318,-0.05216037368625925,5,9
+restaurant reviews hype quality,demonstrative,0.438,1327,1379,-0.038433111603843315,4,10
+youth sports drug prevention infrastructure,demonstrative,-0.0379,1356,1420,-0.04610951008645533,4,9
+home cooking delivery app convenience,demonstrative,-0.1906,1425,1422,0.002107481559536354,5,10
+school phone bans attention autonomy,demonstrative,-0.1318,1308,1304,0.0030627871362940277,4,9
+article pair001,demonstrative,0.863,1424,1401,0.016283185840707964,4,7
+batch pair07 ww2 animation,demonstrative,0.5032,1583,1473,0.07198952879581152,5,7
+batch pair08 projectile collision,demonstrative,0.8985,1364,1419,-0.039525691699604744,5,7
+hpv malaysia 3p5,demonstrative,0.0535,1179,1105,0.0647985989492119,1,5
+pair3 v2 sql join,demonstrative,0.1019,1300,1153,0.11985324092947411,5,5
+pair4 history khajuraho,demonstrative,0.653,886,772,0.13751507840772015,5,5
+petya authentic 3p5,demonstrative,0.5219,1257,1293,-0.02823529411764706,3,5
+pilot pair1 prof halloween,demonstrative,1.2883,1039,929,0.11178861788617886,5,5
+pilot pair2 code web explorer,demonstrative,0.6215,892,836,0.06481481481481481,5,7
+pilot pair2 sci traffic flow,demonstrative,0.6823,1168,1189,-0.017819261773440814,2,5
+pilot pair3 code hibernate inheritance,demonstrative,-1.0461,925,879,0.050997782705099776,3,3
+v7 02 time complexity irreducibility,grey,0.6913,1102,1103,-0.0009070294784580499,6,5
+v7 03 wartime animation propaganda,grey,-0.3291,1112,988,0.1180952380952381,4,7
+v7 04 hibernate maven sql,grey,1.3693,938,841,0.10905002810567735,3,3
+v7 06 biological logical neurons,grey,-0.0837,1398,1487,-0.06169844020797227,7,5
+petya carotid concise mdt,grey,-0.7375,1192,1195,-0.0025136154168412233,5,6
+petya patterns fractal roots,grey,-0.061,1000,1108,-0.10246679316888045,4,3
+petya russia influence opening,grey,-0.2657,1092,1194,-0.08923884514435695,5,4
+petya russia independence soviet frame,grey,0.5286,1426,1321,0.07644703312704769,5,5
+petya russia pretraining media challenge,grey,0.7103,704,640,0.09523809523809523,3,4
+petya carotid tail first principles,grey,-0.1274,488,468,0.04184100418410042,3,3
+petya paod prompt to case opening,grey,0.0017,1541,1452,0.059472101570330775,5,7
+petya paod algorithm tail,grey,0.5656,778,897,-0.14208955223880598,2,3
+petya risotto constraints decision logic,grey,0.5708,1160,1055,0.09480812641083522,3,4
+batch pair01 anti joke,grey,0.241,1514,1415,0.06759986343461932,5,9
+batch pair02 gcp iam,grey,0.494,1266,1167,0.08138101109741061,5,5
+batch pair03 oop,grey,-0.146,1309,1245,0.050117462803445575,4,5
+batch pair06 hibernate mappedsuperclass,grey,0.0012,1541,1452,0.059472101570330775,5,7
+batch pair09 latent heat,grey,0.4202,1435,1372,0.04488778054862843,5,5
+batch pair10 debroglie grav waves,grey,0.6593,1343,1171,0.1368337311058075,5,5
