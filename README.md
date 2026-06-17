@@ -7,6 +7,12 @@ signature*).
 **Author:** Petya Sarafova, independent researcher.
 **Paper:** https://theveil.dev — Preprint v1, June 2026 (arXiv link to follow)
 
+**Revision note:** On 2026-06-17 the live preprint PDF at `theveil.dev` was refreshed
+to clarify the blind-rating language: completed blind model-rater checks on the final
+author-created batches are distinguished from independent human blind classification
+across the full cohort as potential future work. No cohort statistics, chat files, or
+analysis artifacts changed.
+
 The study traces matched pairs of conversation segments that differ only in the user's
 engagement style — Navigator-mode (specific, self-correcting, steering, deepening) versus
 Operator-mode (directive and self-contained) — and measures where the resulting
